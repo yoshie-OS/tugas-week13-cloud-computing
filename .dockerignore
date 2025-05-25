@@ -1,0 +1,8 @@
+gcp_seismic_venv/
+.git/
+__pycache__/
+*.pyc
+persistent_credentials.json
+temp_credentials.json
+.gitignore
+README.md

@@ -1,0 +1,42 @@
+# ===========================================
+# GCP CREDENTIALS - NEVER COMMIT
+# ===========================================
+# Your specific credential files
+persistent_credentials.json
+temp_credentials.json
+tugas-week-13-7e9902876705.json
+
+# Any similar patterns
+tugas-week-13-*.json
+*credentials*.json
+*.json
+
+# ===========================================
+# VIRTUAL ENVIRONMENT
+# ===========================================
+# Your specific venv folder
+gcp_seismic_venv/
+
+# ===========================================
+# PYTHON
+# ===========================================
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.so
+
+# ===========================================
+# STREAMLIT
+# ===========================================
+.streamlit/
+
+# ===========================================
+# WHAT WILL BE UPLOADED (SAFE FILES):
+# ===========================================
+# ✅ app.py
+# ✅ Dockerfile
+# ✅ .dockerignore
+# ✅ requirements.txt
+# ✅ .gitignore (this file)
+# ✅ README.md (when you create it)
